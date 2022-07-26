@@ -39,8 +39,13 @@
   if you have further questions feel free to email me at russelldnn@gmail.com or check my github for clarification at russelldnn
 
   # Screenshot
+  
+  ![1](https://user-images.githubusercontent.com/104922988/181070682-4546ad17-9c38-4484-9ea2-4f9717457a70.PNG)
+
 
   # Video Demo
+  
+  https://www.youtube.com/watch?v=FlHyDUg7WEs
 
 
 
