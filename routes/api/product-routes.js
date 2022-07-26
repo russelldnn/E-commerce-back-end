@@ -22,7 +22,7 @@ router.get('/', (req, res) => {
 // get one product
 router.get('/:id', (req, res) => {
   // find a single product by its `id`
-  Product.findOne ({
+  Product.findOne (req.body, {
     where: {id: req.params.id},
     attributes: ['id', 'product_name', 'stock', 'price', 'category_id'],
     include: [
